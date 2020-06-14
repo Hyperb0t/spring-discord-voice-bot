@@ -1,0 +1,1 @@
+start Demagog/demagog.exe text.txt /s /m /q
